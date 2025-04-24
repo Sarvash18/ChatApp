@@ -1,5 +1,5 @@
 import { CssBaseline, ThemeProvider, createTheme } from "@mui/material";
-import "../styles/globals.css";
+
 
 const theme = createTheme({
   palette: {
